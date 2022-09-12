@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/jokop/CS360/CS360_Exam01/Exam01Sorter.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Utilities.h
+/mnt/c/Users/jokop/CS360/CS360_Exam01/Utilities.h
+
+/mnt/c/Users/jokop/CS360/CS360_Exam01/Utilities.h
+

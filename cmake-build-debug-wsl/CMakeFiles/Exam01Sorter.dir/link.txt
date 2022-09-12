@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Exam01Sorter.dir/Exam01Sorter.cpp.o  -o ../bin/Exam01Sorter 
